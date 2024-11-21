@@ -11,7 +11,9 @@ Feira Net é uma plataforma revolucionária que integra o ambiente tradicional d
  - Tecnologias Utilizadas 📲
  - Arquitetura do Sistema 🏗️ 
  - Roadmap ♒
+ - Contribuidor
  - Contato 🫂
+ - Licença
 
 ## Visão Geral
 O Feira Net busca digitalizar o mercado de feiras locais, com foco na inclusão de feirantes que possuem baixa escolaridade e em oferecer aos consumidores uma experiência prática e confiável. Com funcionalidades inovadoras como leilões de frutas, sistema de entregas via mototaxistas e suporte por assistente virtual com leitura por voz, nossa plataforma democratiza o acesso às feiras de forma sustentável e tecnológica.
@@ -113,6 +115,24 @@ npm run dev
    Gamificação para fidelizar mototaxistas e consumidores.
    Contato
 
+## 🤝 Colaborador
+
+Contribuidor do projeto.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="profileContributor1">
+        <img src="https://github.com/user-attachments/assets/58ae7be8-972f-40a6-9742-fc48f5ea2bc2" width="100px;" alt="Picture Dev 1"/><br>
+        <sub>
+          <b>Maxwell Chaves</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Contato
 Tem alguma dúvida ou quer fazer parte da nossa solução? Entre em contato:
 
 📧 E-mail: androiddeveloperbr@proton.me

@@ -135,11 +135,10 @@ Contribuidor do projeto.
 ## Contato
 Tem alguma dúvida ou quer fazer parte da nossa solução? Entre em contato:
 
-📧 E-mail: androiddeveloperbr@proton.me
-:octocat: GitHub: Feira Net
-🟦 LinkedIn: Perfil do Projeto
-🥝🍊 Feira Net 🍎🍇 – Conectando feiras ao futuro!
-
+- 📧 E-mail: androiddeveloperbr@proton.me
+- :octocat: GitHub: Feira Net
+- 🟦 LinkedIn: Perfil do Projeto
+- 🥝🍊 Feira Net 🍎🍇 – Conectando feiras ao futuro!
 
 ## 📝 Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.

@@ -100,12 +100,14 @@ npm run dev
 ```
 
 ## Roadmap
-  ### Versão 1.0
+  ### Versão 1.0 (em andamento)
+   Criação do MVP
+   Viabilização do protótipo
    Sistema de cadastro de feirantes, consumidores e mototaxistas.
    Marketplace com carrinho de compras.
    Integração com assistente virtual.
   
-  ### Versão 2.0 (em andamento)
+  ### Versão 2.0 (planejado)
    Sistema de leilões.
    Rastreamento detalhado de entregas.
    Suporte a múltiplos idiomas.
